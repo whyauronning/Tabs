@@ -2,7 +2,7 @@
 Here i write easy code for basic tabs on website 
 
 
-Usage
+# Usage
 
 Instruction in comments of js/script.js file.
 
